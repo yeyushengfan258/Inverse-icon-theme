@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="d" x1="32" x2="32" y1="2" y2="62" gradientTransform="translate(-1.2883e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientTransform="translate(1.1345e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5ab9ff" offset="0"/>
+   <stop stop-color="#50b7ff" offset=".22539"/>
+   <stop stop-color="#4691e6" offset=".22539"/>
+   <stop stop-color="#3b8de4" offset=".46111"/>
+   <stop stop-color="#376ec3" offset=".46111"/>
+   <stop stop-color="#3366b7" offset=".75362"/>
+   <stop stop-color="#284b96" offset=".75362"/>
+   <stop stop-color="#28468c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="45" x2="45" y1="27" y2="63" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5a87d2" offset="0"/>
+   <stop stop-color="#2d5faa" offset="1"/>
+  </linearGradient>
+  <filter id="filter892" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+ </defs>
+ <g fill-rule="evenodd">
+  <circle cx="32" cy="32" r="30" filter="url(#filter892)" opacity=".25" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="30" fill="url(#d)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle cx="45" cy="45" r="18" fill="url(#a)" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m35 37.177h4.177l1.8 9.854 2.3077-9.854h3.4345l2.2424 9.9463 1.9385-9.9463h4.0998l-3.546 16.823h-4.2518l-2.1828-9.1386-2.0578 9.1386h-4.3616z" fill="#fff"/>
+</svg>
