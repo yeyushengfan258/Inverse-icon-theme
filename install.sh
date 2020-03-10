@@ -44,7 +44,9 @@ install() {
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
   if [[ ${color} == '' ]]; then
-    cp -r ${SRC_DIR}/src/{16,22,24,32,scalable,symbolic}                               ${THEME_DIR}
+    mkdir -p                                                                           ${THEME_DIR}/32
+    cp -r ${SRC_DIR}/src/{16,22,24,scalable,symbolic}                                  ${THEME_DIR}
+    cp -r ${SRC_DIR}/src/32/{categories,status}                                        ${THEME_DIR}/32
     cp -r ${SRC_DIR}/links/{16,22,24,32,scalable,symbolic}                             ${THEME_DIR}
   fi
 
@@ -56,9 +58,12 @@ install() {
     mkdir -p                                                                           ${THEME_DIR}/16
     mkdir -p                                                                           ${THEME_DIR}/22
     mkdir -p                                                                           ${THEME_DIR}/24
+    mkdir -p                                                                           ${THEME_DIR}/32
+
     cp -r ${SRC_DIR}/src/16/{actions,devices,places}                                   ${THEME_DIR}/16
     cp -r ${SRC_DIR}/src/22/actions                                                    ${THEME_DIR}/22
     cp -r ${SRC_DIR}/src/24/actions                                                    ${THEME_DIR}/24
+    cp -r ${SRC_DIR}/src/32/status${color}                                             ${THEME_DIR}/32/status
 
     # Change icon color for dark theme
     sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/actions/*
@@ -71,7 +76,7 @@ install() {
     cd ${dest}
     ln -sr ${name}${theme}/scalable ${name}${theme}-dark/scalable
     ln -sr ${name}${theme}/symbolic ${name}${theme}-dark/symbolic
-    ln -sr ${name}${theme}/32 ${name}${theme}-dark/32
+    ln -sr ${name}${theme}/32/categories ${name}${theme}-dark/32/categories
     ln -sr ${name}${theme}/16/mimetypes ${name}${theme}-dark/16/mimetypes
     ln -sr ${name}${theme}/16/panel ${name}${theme}-dark/16/panel
 
