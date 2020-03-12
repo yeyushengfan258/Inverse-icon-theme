@@ -4,5 +4,5 @@
  </defs>
  <path class="ColorScheme-Highlight" d="m14 15h3v4h-3z" fill="#f55"/>
  <circle class="ColorScheme-Highlight" cx="15.5" cy="12.5" r="1.5" fill="#f55"/>
- <path class="ColorScheme-Highlight" d="M7 14A10 10 0 0 1 17 4M11 14a6 6 0 0 1 6-6" fill="none" stroke="#bebebe" stroke-width="2"/>
+ <path class="ColorScheme-Highlight" d="M7 14A10 10 0 0 1 17 4M11 14a6 6 0 0 1 6-6" fill="none" stroke="#323232" stroke-width="2"/>
 </svg>
