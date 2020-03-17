@@ -3,6 +3,15 @@ A colorful design icon theme for linux desktops
 
 ## Install
 
+### Arch Linux
+
+```bash
+git clone https://aur.archlinux.org/inverse-icon-theme-git.git ./inverse-icon-theme-git/
+cd ./tencent-icon-theme-git/
+makepkg -si
+```
+
+### Other
 `./install.sh`
 
 ## view
