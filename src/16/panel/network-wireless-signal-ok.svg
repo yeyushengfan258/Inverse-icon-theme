@@ -1,7 +1,1 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#000' transform='translate(-1013 267)'>
-        
-        <path d='M1021.003-265a12.1 12.1 0 0 0-7.4 2.518l-.266.205.205.263 7.457 9.672 7.668-9.931-.264-.206a12.105 12.105 0 0 0-7.4-2.521zm0 1c2.181 0 4.344.672 6.227 1.951l-6.229 8.07-6.226-8.074c1.883-1.278 4.047-1.948 6.228-1.947z' fill='#bebebe' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none' white-space='normal'/>
-        <path d='M1017.337-257.752a6.003 6 0 0 1 7.332.002l-3.667 4.75z' fill='#bebebe' overflow='visible' style='marker:none'/>
-    </g>
-</svg>
+<svg height="16" width="16.003" xmlns="http://www.w3.org/2000/svg"><g color="#000" fill="#bebebe"><path d="M8.034 2C5 2 2.268 3.078.003 4.75l8.031 8.75 7.969-8.781C13.746 3.065 11.045 2 8.034 2zm-.062 1c2.393 0 4.524.836 6.437 2.031l-6.437 7L1.597 5c1.9-1.179 4.005-2 6.375-2z" style="marker:none" overflow="visible"/><path d="M7.972 6.406c-1.12 0-2.148.258-3.094.719l3.094 3.406 3.093-3.375c-.948-.461-1.973-.75-3.093-.75z" style="marker:none" overflow="visible"/></g></svg>

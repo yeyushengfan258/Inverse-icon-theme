@@ -1,6 +1,1 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#000' transform='translate(-973 267)'>
-        
-        <path d='M981.003-265c-2.61 0-5.22.838-7.4 2.518l-.266.205.205.263 7.457 9.672 7.668-9.931-.264-.206a12.105 12.105 0 0 0-7.4-2.521z' fill='#bebebe' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none' white-space='normal'/>
-    </g>
-</svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g color="#000" fill="#bebebe"><path d="M8.031 2C4.997 2 2.265 3.078 0 4.75l8.031 8.75L16 4.719C13.743 3.065 11.042 2 8.031 2zm0 1c2.37 0 4.474.821 6.375 2l-6.375 7-6.437-6.969C3.507 3.836 5.638 3 8.03 3z" style="marker:none" overflow="visible"/><path d="M8.031 4c-1.73 0-3.289.573-4.781 1.344L8.031 10.5l4.719-5.188C11.274 4.556 9.74 4 8.031 4z" style="marker:none" overflow="visible"/></g></svg>
