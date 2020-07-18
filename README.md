@@ -3,16 +3,14 @@ A colorful design icon theme for linux desktops
 
 ## Install
 
-### Arch Linux
+Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
-```bash
-git clone https://aur.archlinux.org/inverse-icon-theme-git.git ./inverse-icon-theme-git/
-cd ./tencent-icon-theme-git/
-makepkg -si
-```
-
-### Other
-`./install.sh`
+|  OPTIONS: |                                                                               |
+|:----------|:------------------------------------------------------------------------------|
+| -a        | Install all color versions                                                    |
+| -d        | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
+| -n        | Specify theme name (**Default:** _Tela_)                                      |
+| -h        | Show this help                                                                |
 
 ## view
 ![view](View-1.png?raw=true)
