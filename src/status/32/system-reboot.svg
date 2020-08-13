@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="16" cy="16" r="15" fill="#fff" opacity=".6" stroke-linecap="round" stroke-width="1.8959"/>
+ <g transform="translate(82 80)">
+  <path d="m-74.485-63.506a8.4993 8.4993 0 0 1 5.3368-8.3888 8.4993 8.4993 0 0 1 9.6448 2.4148" fill="none" stroke="#323232" stroke-dashoffset="3" stroke-linecap="round" stroke-width=".99974" style="paint-order:stroke fill markers"/>
+  <path transform="scale(-1)" d="m57.5 63.492a8.5014 8.5014 0 0 1 5.8163-7.5623 8.5014 8.5014 0 0 1 9.1786 2.6022" fill="none" stroke="#323232" stroke-dashoffset="3" stroke-linecap="round" style="paint-order:stroke fill markers"/>
+  <g fill="#323232" fill-rule="evenodd">
+   <rect x="-60" y="-71.984" width=".99999" height="3" ry=".49999" stroke-width=".99999" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-90)" x="68.984" y="-62" width=".99999" height="3" ry=".49999" stroke-width=".99999" style="paint-order:stroke fill markers"/>
+   <rect transform="scale(-1)" x="72" y="56.035" width=".99999" height="3" ry=".49999" stroke-width="3.7795" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(90)" x="-59.035" y="70" width=".99999" height="3" ry=".49999" stroke-width="3.7795" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>

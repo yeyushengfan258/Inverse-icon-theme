@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="16" cy="16" r="15" fill="#fff" opacity=".6" stroke-linecap="round" stroke-width="1.8959"/>
+ <g transform="translate(97 70)">
+  <path d="m-82.199-62.48c-4.2344 0.75426-7.29 4.18-7.2954 8.4431 5e-5 4.7119 3.8828 8.5315 8.6725 8.5315 3.8402-0.0018 7.0853-2.5094 8.3115-5.9694 0.0615-0.17336-0.36996-0.09067-0.55598-0.07436-0.20426 0.01517-0.40898 0.02277-0.61374 0.02277-0.28948-1.51e-4 -0.57881-0.01517-0.86682-0.04324-0.28759-0.02655-0.57356-0.07094-0.85687-0.12746-0.28301-0.05615-0.563-0.12632-0.83895-0.20978-0.27648-0.08459-0.54849-0.18285-0.81503-0.294-0.2665-0.11077-0.52721-0.23444-0.78114-0.37062-0.25316-0.13619-0.49922-0.28451-0.73729-0.44497-0.23909-0.16046-0.46988-0.33231-0.69149-0.51557-0.22096-0.1836-0.43246-0.37783-0.63368-0.58222-0.20136-0.20409-0.39224-0.41812-0.5719-0.64102-0.1797-0.22306-0.34798-0.45453-0.50415-0.69398-0.15656-0.23898-0.3009-0.48575-0.43243-0.73904-0.13069-0.2534-0.24841-0.51322-0.35272-0.77823-0.10466-0.26516-0.19578-0.53545-0.27302-0.80964-0.0778-0.27389-0.14163-0.55115-0.1913-0.83115-0.0489-0.28034-0.0834-0.56306-0.10362-0.84689-0.0146-0.20105-0.022-0.40234-0.022-0.60377 2.1e-4 -0.28413 0.0147-0.56807 0.0439-0.8508 0.0289-0.28375 0.072-0.56557 0.12953-0.84488 0.0516-0.2443 0.26982-0.77258 0.0716-0.74098z" fill="none" opacity=".8" stroke="#000" stroke-dashoffset="3" stroke-linecap="round" stroke-width="1.0118" style="paint-order:stroke fill markers"/>
+  <g transform="translate(-6.4248 -132.28)" fill="#323232" fill-rule="evenodd">
+   <rect x="-71.575" y="73.28" width="4" height=".99999" ry=".49999" stroke-width="3.086" style="paint-order:stroke fill markers"/>
+   <rect x="-71.575" y="76.281" width="5" height=".99999" ry=".49999" stroke-width="3.1943" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-45)" x="-105.04" y="3.512" width="5.2228" height="1.0446" ry=".52228" stroke-width="3.3366" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>
