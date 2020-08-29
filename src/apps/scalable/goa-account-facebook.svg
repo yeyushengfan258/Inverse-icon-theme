@@ -1,31 +1,35 @@
-<svg width="32" height="32" enable-background="new" version="1.0" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Adwaita Icon Template</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <title>Adwaita Icon Template</title>
  <defs>
-  <radialGradient id="radialGradient5521-1" cx="10.255" cy="9.9089" r="12.672" fx="9.7252" gradientTransform="matrix(0 2.5253 -4.9716 0 66.264 -25.898)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5c96ff" offset="0"/>
-   <stop stop-color="#1e4ea4" offset="1"/>
-  </radialGradient>
-  <filter id="filter975" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.56"/>
-  </filter>
   <filter id="filter871" x="-.069818" y="-.036571" width="1.1396" height="1.0731" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="1.28"/>
   </filter>
+  <linearGradient id="linearGradient937" x1="2.5157" x2="62.707" y1="62.016" y2="2.3713" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2354ac" offset="0"/>
+   <stop stop-color="#4f87ec" offset="1"/>
+  </linearGradient>
+  <filter id="filter893" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
  </defs>
- <rect x="2" y="3" width="28" height="28" rx="5" ry="5" color="#000000" enable-background="accumulate" filter="url(#filter975)" opacity=".15"/>
- <rect x="2" y="2" width="28" height="28" rx="5" ry="5" color="#000000" enable-background="accumulate" fill="url(#radialGradient5521-1)"/>
- <g transform="matrix(.26923 0 0 .26923 -1.9252 -46.892)" filter="url(#filter871)" opacity=".15">
-  <g>
-   <g transform="translate(-3e-5 -160)" enable-background="new">
-    <path d="m88 364s-16 0-16 16v16h-12v16h12v36h16v-36h14l2-16h-16v-12c0-4 4-4 4-4h12v-16z" color="#000000" enable-background="new" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-   </g>
+ <circle cx="32" cy="32" r="30" filter="url(#filter893)" opacity=".3" stroke-linecap="round" stroke-width="2.3495"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient937)" stroke-linecap="round" stroke-width="2.3495"/>
+ <g transform="matrix(.52639 0 0 .52639 -3.9651 -88.476)" filter="url(#filter871)" opacity=".15">
+  <g transform="translate(-3e-5,-160)" enable-background="new">
+   <path d="m88 364s-16 0-16 16v16h-12v16h12v36l18.638-3.3477-2.638-32.652h14l2-16h-16v-12c0-4 4-4 4-4h12v-16z" color="#000000" enable-background="new" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
   </g>
  </g>
- <g transform="matrix(.26923 0 0 .26923 -1.2308 -47.538)">
-  <g>
-   <g transform="translate(-3e-5 -160)" enable-background="new">
-    <path d="m88 364s-16 0-16 16v16h-12v16h12v36h16v-36h14l2-16h-16v-12c0-4 4-4 4-4h12v-16z" color="#000000" enable-background="new" fill="#fff" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-   </g>
-  </g>
+ <g transform="matrix(.52639 0 0 .52639 -2.6075 -89.739)" fill="#fff">
+  <path transform="matrix(1.8997 0 0 1.8997 4.9535 170.48)" d="m43.715 17.645s-8.4219-3.36e-4 -8.4219 8.4219v8.4219h-6.3164v8.4238h6.3164v18.906a30 30 0 0 0 8.4219-2.2012v-16.705h7.3691l1.0527-8.4238h-8.4219v-6.3164c0-2.1056 2.1055-2.1055 2.1055-2.1055h6.3164v-8.4219h-8.4219z" fill="#fff" stroke-width=".52639" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
  </g>
 </svg>
