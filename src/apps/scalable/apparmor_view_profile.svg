@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <filter id="filter951" x="-.10129" y="-.07175" width="1.2026" height="1.1435" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="15.306655"/>
+  </filter>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <filter id="filter11290" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="linearGradient1005" x1=".8714" x2="16.246" y1="16.164" y2=".78937" gradientTransform="matrix(3.7796 0 0 3.7796 -.13241 .025278)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00c8ff" offset="0"/>
+   <stop stop-color="#14a0ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="matrix(3.7796 0 0 3.7796 -.10279 .024585)" cx="8.4937" cy="8.46" r="7.9377" filter="url(#filter11290)" opacity=".25" stroke-width=".14032"/>
+ <path d="m62 32c0 3.5964-0.63305 7.0448-1.794 10.24-0.80698 2.2212-1.8686 4.3212-3.1519 6.2636-0.53754 0.8167-1.1155 1.6054-1.729 2.3633-1.9641 2.4257-4.2982 4.5382-6.9186 6.2526-0.96493 0.63187-1.9678 1.2098-3.0061 1.7277-4.0321 2.0179-8.5839 3.153-13.401 3.153s-9.3689-1.1351-13.401-3.1531c-1.0384-0.518-2.0425-1.096-3.0074-1.7277-2.6535-1.7376-5.0155-3.8832-6.9957-6.349-0.61468-0.76408-1.1915-1.56-1.729-2.3841-1.249-1.9102-2.2837-3.9712-3.0747-6.1494-1.1608-3.1949-1.7927-6.6419-1.7927-10.237 0-16.569 13.432-30.001 30.001-30.001 8.317 0 15.843 3.3846 21.277 8.8507 1.5661 1.5747 2.9584 3.3234 4.1436 5.214 1.1205 1.7805 2.0572 3.6882 2.7857 5.6951 1.161 3.196 1.7941 6.6442 1.7941 10.24z" fill="url(#linearGradient1005)" stroke-width=".11719"/>
+ <g fill="#5e4aa6">
+  <circle cx="-1202" cy="-1306.3" r="0"/>
+  <g transform="matrix(3.7796 0 0 3.7796 46.634 -65.215)" stroke-width=".26458">
+   <circle cx="-299.02" cy="-338.77" r="0"/>
+   <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+   <circle cx="-278.25" cy="-357.69" r="0"/>
+   <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+  </g>
+  <circle cx="-1124.8" cy="-1279.3" r="0"/>
+  <circle cx="-1006.3" cy="-1318.6" r="0"/>
+  <circle cx="93.192" cy="-53.109" r="0" fill-rule="evenodd"/>
+  <circle cx="-927.84" cy="-1390.1" r="0"/>
+  <circle cx="171.69" cy="-124.58" r="0" fill-rule="evenodd"/>
+ </g>
+ <text x="-4.9240799" y="16.420322"><tspan x="-4.9240799" y="16.420322"/></text>
+ <g fill="#5e4aa6">
+  <g transform="matrix(3.7796 0 0 3.7796 .019246 -.0012424)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-39.434" cy="6.44" r="0" fill-rule="evenodd"/>
+   <circle cx="-330.38" cy="-328.5" r="0"/>
+   <circle cx="-301.7" cy="-344.43" r="0"/>
+  </g>
+  <circle cx="-1274.8" cy="-1318.1" r="0"/>
+  <g transform="matrix(3.7796 0 0 3.7796 -112.84 -73.605)" image-rendering="optimizeSpeed" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+  <g image-rendering="optimizeSpeed">
+   <circle cx="-1160" cy="-1257.6" r="0"/>
+   <circle cx="-1160" cy="-1257.6" r="0"/>
+   <circle cx="-1244.2" cy="-1289.6" r="0"/>
+  </g>
+  <circle cx="-1124.8" cy="-1279.3" r="0" image-rendering="optimizeSpeed"/>
+  <g transform="matrix(3.7796,0,0,3.7796,123.83,-38.184)" image-rendering="optimizeSpeed" stroke-width=".26458">
+   <circle cx="-299.02" cy="-338.77" r="0"/>
+   <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+   <circle cx="-278.25" cy="-357.69" r="0"/>
+   <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+  </g>
+ </g>
+ <g transform="matrix(.067942 0 0 .067942 14.607 14.607)" fill="#0f9bff" filter="url(#filter951)">
+  <path d="m256 0c-76.544 0.094-138.57 62.122-138.67 138.67v85.333c0 5.891 4.776 10.667 10.667 10.667h42.667c5.891 0 10.667-4.776 10.667-10.667v-85.333c-1e-3 -41.238 33.429-74.667 74.666-74.667s74.667 33.429 74.667 74.667v85.333c0 5.891 4.776 10.667 10.667 10.667h42.666c5.891 0 10.667-4.776 10.667-10.667v-85.333c-0.094-76.545-62.123-138.57-138.67-138.67z"/>
+  <path d="m128 213.33h256c29.455 0 53.333 23.878 53.333 53.333v192c0 29.456-23.878 53.334-53.333 53.334h-256c-29.455 0-53.333-23.878-53.333-53.333v-192c0-29.456 23.878-53.334 53.333-53.334z"/>
+  <path d="m309.33 330.67c0.124-29.455-23.653-53.434-53.108-53.558s-53.434 23.653-53.558 53.108c-0.086 20.36 11.427 38.992 29.674 48.023l-8.235 57.6c-0.825 5.833 3.235 11.23 9.068 12.055 0.494 0.07 0.993 0.105 1.492 0.105h42.667c5.891 0.06 10.715-4.667 10.774-10.558 5e-3 -0.543-0.03-1.086-0.108-1.623l-8.235-57.6c18.024-9.02 29.452-27.399 29.569-47.552z"/>
+ </g>
+ <g transform="matrix(.067942 0 0 .067942 14.607 14.607)">
+  <path d="m256 0c-76.544 0.094-138.57 62.122-138.67 138.67v85.333c0 5.891 4.776 10.667 10.667 10.667h42.667c5.891 0 10.667-4.776 10.667-10.667v-85.333c-1e-3 -41.238 33.429-74.667 74.666-74.667s74.667 33.429 74.667 74.667v85.333c0 5.891 4.776 10.667 10.667 10.667h42.666c5.891 0 10.667-4.776 10.667-10.667v-85.333c-0.094-76.545-62.123-138.57-138.67-138.67z" fill="#b4e1ff"/>
+  <path d="m128 213.33h256c29.455 0 53.333 23.878 53.333 53.333v192c0 29.456-23.878 53.334-53.333 53.334h-256c-29.455 0-53.333-23.878-53.333-53.333v-192c0-29.456 23.878-53.334 53.333-53.334z" fill="#fff"/>
+  <path d="m309.33 330.67c0.124-29.455-23.653-53.434-53.108-53.558s-53.434 23.653-53.558 53.108c-0.086 20.36 11.427 38.992 29.674 48.023l-8.235 57.6c-0.825 5.833 3.235 11.23 9.068 12.055 0.494 0.07 0.993 0.105 1.492 0.105h42.667c5.891 0.06 10.715-4.667 10.774-10.558 5e-3 -0.543-0.03-1.086-0.108-1.623l-8.235-57.6c18.024-9.02 29.452-27.399 29.569-47.552z" fill="#0fa0ff"/>
+ </g>
+ <g fill="#5e4aa6">
+  <circle cx="-1190.9" cy="-1300.4" r="0"/>
+  <g transform="matrix(3.7796 0 0 3.7796 57.756 -59.299)" stroke-width=".26458">
+   <circle cx="-299.02" cy="-338.77" r="0"/>
+   <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+   <circle cx="-278.25" cy="-357.69" r="0"/>
+   <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+  </g>
+  <g transform="translate(-66.074 -21.115)">
+   <circle cx="-1050.3" cy="-1279.3" r="0"/>
+   <g transform="matrix(3.7796,0,0,3.7796,198.32,-38.184)" stroke-width=".26458">
+    <circle cx="-299.02" cy="-338.77" r="0"/>
+    <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+    <circle cx="-278.25" cy="-357.69" r="0"/>
+    <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+   </g>
+   <g transform="matrix(3.7796 0 0 3.7796 74.386 .024585)" stroke-width=".26458">
+    <circle cx="-330.35" cy="-328.38" r="0"/>
+    <circle cx="-312.11" cy="-326.25" r="0"/>
+    <circle cx="-306.02" cy="-333.07" r="0"/>
+    <circle cx="-308.84" cy="-326.01" r="0"/>
+   </g>
+  </g>
+ </g>
+</svg>
