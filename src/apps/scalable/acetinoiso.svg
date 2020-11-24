@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <filter id="filter11290" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <radialGradient id="radialGradient1073" cx="8.4665" cy="8.4665" r="7.9373" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eaa3ff" offset="0"/>
+   <stop stop-color="#875aff" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient1087" cx="-53.944" cy="45.66" r="27.501" gradientTransform="matrix(1.1042 0 0 1.0969 91.561 -18.273)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6e6e6e" offset="0"/>
+   <stop stop-color="#050505" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient1089" cx="-134.95" cy="149.22" r="40.47" gradientTransform="matrix(.49982 0 0 .86647 99.68 -88.443)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7a7a7a" offset="0"/>
+   <stop stop-color="#080806" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient1091" x1="-137.04" x2="-137.04" y1="46.909" y2="98.338" gradientTransform="matrix(.44134 0 0 .44134 91.892 -20.247)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#db9afa" offset="0"/>
+   <stop stop-color="#d56efe" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="8.4665" cy="8.4665" r="7.9377" filter="url(#filter11290)" opacity=".25" stroke-width=".14032"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#radialGradient1073)" stroke-width=".24091"/>
+ <g fill="#5e4aa6">
+  <g stroke-width=".26458">
+   <circle cx="-320.38" cy="-339.41" r="0"/>
+   <g transform="translate(9.9845 -11.043)">
+    <circle cx="-299.02" cy="-338.77" r="0"/>
+    <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+    <circle cx="-278.25" cy="-357.69" r="0"/>
+    <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+   </g>
+   <circle cx="-320.38" cy="-339.41" r="0"/>
+   <g transform="translate(9.9845 -11.043)">
+    <circle cx="-299.02" cy="-338.77" r="0"/>
+    <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+    <circle cx="-278.25" cy="-357.69" r="0"/>
+    <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+   </g>
+  </g>
+  <circle cx="-343.36" cy="-348.11" r="0" stroke-width=".26458"/>
+  <circle cx="-52.438" cy="-13.293" r="0" fill-rule="evenodd" stroke-width=".26458"/>
+  <g transform="translate(-40.207 -29.849)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+ </g>
+ <path transform="scale(.26458)" d="m31.855 2a30 30 0 0 0-29.854 29.799h59.998a30 30 0 0 0-30-29.799 30 30 0 0 0-0.14453 0z" fill="url(#radialGradient1087)"/>
+ <path transform="scale(.26458)" d="m32.002 32.109-0.001953 0.001953-13.461 22.852-1.7168 2.9141a30 30 0 0 0 15.178 4.123 30 30 0 0 0 15.176-4.123l-15.174-25.768z" fill="url(#radialGradient1089)" stroke-width="1.1042"/>
+ <path transform="scale(.26458)" d="m31.855 2a30 30 0 0 0-15.033 4.123l1.7168 2.9141 13.408 22.764h0.10352l13.41-22.764 1.7168-2.9141a30 30 0 0 0-15.178-4.123 30 30 0 0 0-0.14453 0z" fill="url(#linearGradient1091)" stroke-width="1.1042"/>
+</svg>
