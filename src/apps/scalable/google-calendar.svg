@@ -12,32 +12,23 @@
    height="64"
    version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg23"
-   sodipodi:docname="office-calendar.svg"
+   id="svg24"
+   sodipodi:docname="google-calendar.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="942"
-     id="namedview25"
-     showgrid="false"
-     inkscape:zoom="6.0546875"
-     inkscape:cx="34.705742"
-     inkscape:cy="27.976096"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg23"
-     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
-     id="defs5">
+     id="defs28">
     <filter
        id="filter2761"
        x="-.024"
@@ -346,131 +337,6 @@
          id="feGaussianBlur2-3"
          stdDeviation="0.14552168" />
     </filter>
-    <filter
-       id="filter2761-3675"
-       x="-.024"
-       y="-.024"
-       width="1.048"
-       height="1.048"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.14552168"
-         id="feGaussianBlur2-3562" />
-    </filter>
-    <filter
-       id="filter2761-367-9"
-       x="-.024"
-       y="-.024"
-       width="1.048"
-       height="1.048"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.14552168"
-         id="feGaussianBlur2-5-1" />
-    </filter>
-    <filter
-       id="filter2761-5-9"
-       x="-.024"
-       y="-.024"
-       width="1.048"
-       height="1.048"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.14552168"
-         id="feGaussianBlur2-35-3" />
-    </filter>
-    <filter
-       id="filter2761-3-6"
-       x="-.024"
-       y="-.024"
-       width="1.048"
-       height="1.048"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.14552168"
-         id="feGaussianBlur4-0" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       height="1.048"
-       width="1.048"
-       y="-.024"
-       x="-.024"
-       id="filter2761-3-3-6">
-      <feGaussianBlur
-         id="feGaussianBlur2-6-1"
-         stdDeviation="0.14552168" />
-    </filter>
-    <filter
-       id="filter2761-36-9"
-       x="-.024"
-       y="-.024"
-       width="1.048"
-       height="1.048"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.14552168"
-         id="feGaussianBlur2-7-2" />
-    </filter>
-    <radialGradient
-       id="c-7-3"
-       cx="24.047"
-       cy="23.949"
-       r="2.9867"
-       gradientTransform="matrix(0.2056,-3.7539e-8,2.8431e-8,0.15571,-39.607,5.456)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#2839e6"
-         offset="0"
-         id="stop10-7" />
-      <stop
-         stop-opacity="0"
-         offset="1"
-         id="stop12-5" />
-    </radialGradient>
-    <radialGradient
-       id="radialGradient123131-2"
-       cx="-24.473"
-       cy="9.8348"
-       r="1.1409"
-       gradientTransform="matrix(1.4202,0,0,1.0512,0.054505,-1.1471)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a-9" />
-    <radialGradient
-       id="radialGradient123155-7"
-       cx="-24.473"
-       cy="9.8348"
-       r="1.1409"
-       gradientTransform="matrix(1.1403,0,0,0.84405,-6.7958,0.89063)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a-9" />
-    <radialGradient
-       id="radialGradient123159-3"
-       cx="-24.473"
-       cy="9.8348"
-       r="1.5211"
-       gradientTransform="matrix(0.93082,0,0,0.93082,-11.889,0.037279)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#291dc0"
-         offset="0"
-         id="stop29-6" />
-      <stop
-         stop-color="#1b1b23"
-         offset="1"
-         id="stop31-1" />
-    </radialGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       height="1.048"
-       width="1.048"
-       y="-.024"
-       x="-.024"
-       id="filter2761-3-9-8">
-      <feGaussianBlur
-         id="feGaussianBlur2-3-4"
-         stdDeviation="0.14552168" />
-    </filter>
     <linearGradient
        gradientTransform="translate(0,-65.617949)"
        gradientUnits="userSpaceOnUse"
@@ -710,150 +576,156 @@
          id="stop917" />
     </linearGradient>
   </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="942"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="4.2813106"
+     inkscape:cx="20.242837"
+     inkscape:cy="23.742717"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     inkscape:document-rotation="0" />
+  <circle
+     id="circle922"
+     stroke-width="0.14032"
+     opacity="0.25"
+     filter="url(#filter11290)"
+     r="7.9376998"
+     cy="8.4665003"
+     cx="8.4665003" />
+  <path
+     id="path924"
+     stroke-width="0.0310059"
+     fill="url(#linearGradient1005)"
+     d="m 16.40395,8.4666189 c 0,0.9515287 -0.167492,1.8639001 -0.474654,2.7092801 -0.213509,0.587681 -0.49439,1.143295 -0.833923,1.657212 -0.142222,0.21608 -0.295137,0.424753 -0.457456,0.625277 -0.519658,0.641787 -1.13721,1.200708 -1.83051,1.654301 -0.2553,0.167179 -0.520637,0.320113 -0.795348,0.457112 -1.066806,0.533892 -2.2711126,0.834215 -3.5456118,0.834215 -1.274499,0 -2.478806,-0.300323 -3.545611,-0.834242 -0.274738,-0.137049 -0.540401,-0.289977 -0.795693,-0.457111 -0.702058,-0.459731 -1.326991,-1.02741 -1.850909,-1.679807 -0.162631,-0.202159 -0.315245,-0.412742 -0.457455,-0.63078 -0.330458,-0.505398 -0.604217,-1.050693 -0.813499,-1.626997 -0.307122,-0.845301 -0.474309,-1.7573018 -0.474309,-2.7084866 0,-4.3837949 3.553813,-7.93760819 7.937608,-7.93760819 2.2004968,0 4.1917118,0.89549109 5.6294288,2.34170159 0.414356,0.4166312 0.782728,0.8792989 1.096306,1.3795103 0.29646,0.4710814 0.54429,0.975817 0.737035,1.5067989 0.307175,0.8455916 0.47468,1.7579099 0.47468,2.7092799 z"
+     style="fill:url(#linearGradient1005)" />
   <g
-     id="g1102">
-    <circle
-       id="circle922"
-       stroke-width="0.14032"
-       opacity="0.25"
-       filter="url(#filter11290)"
-       r="7.9376998"
-       cy="8.4665003"
-       cx="8.4665003" />
-    <path
-       id="path924"
-       stroke-width="0.0310059"
-       fill="url(#linearGradient1005)"
-       d="m 16.40395,8.4666189 c 0,0.9515287 -0.167492,1.8639001 -0.474654,2.7092801 -0.213509,0.587681 -0.49439,1.143295 -0.833923,1.657212 -0.142222,0.21608 -0.295137,0.424753 -0.457456,0.625277 -0.519658,0.641787 -1.13721,1.200708 -1.83051,1.654301 -0.2553,0.167179 -0.520637,0.320113 -0.795348,0.457112 -1.066806,0.533892 -2.2711126,0.834215 -3.5456118,0.834215 -1.274499,0 -2.478806,-0.300323 -3.545611,-0.834242 -0.274738,-0.137049 -0.540401,-0.289977 -0.795693,-0.457111 -0.702058,-0.459731 -1.326991,-1.02741 -1.850909,-1.679807 -0.162631,-0.202159 -0.315245,-0.412742 -0.457455,-0.63078 -0.330458,-0.505398 -0.604217,-1.050693 -0.813499,-1.626997 -0.307122,-0.845301 -0.474309,-1.7573018 -0.474309,-2.7084866 0,-4.3837949 3.553813,-7.93760819 7.937608,-7.93760819 2.2004968,0 4.1917118,0.89549109 5.6294288,2.34170159 0.414356,0.4166312 0.782728,0.8792989 1.096306,1.3795103 0.29646,0.4710814 0.54429,0.975817 0.737035,1.5067989 0.307175,0.8455916 0.47468,1.7579099 0.47468,2.7092799 z"
-       style="fill:url(#linearGradient1005)" />
-    <g
-       transform="translate(-0.40871,-0.71961)"
-       font-family="sans-serif"
-       letter-spacing="0px"
-       word-spacing="0px"
-       id="g21-5">
-      <text
+     transform="translate(-0.40871,-0.71961)"
+     font-family="sans-serif"
+     letter-spacing="0px"
+     word-spacing="0px"
+     id="g21">
+    <text
+       x="4.4334226"
+       y="13.222259"
+       fill="#009bff"
+       font-size="8.0661px"
+       stroke-width="0.20165"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text15"><tspan
          x="4.4334226"
          y="13.222259"
          fill="#009bff"
-         font-size="8.0661px"
          stroke-width="0.20165"
-         style="line-height:1.25"
-         xml:space="preserve"
-         id="text15-0"><tspan
-           x="4.4334226"
-           y="13.222259"
-           fill="#009bff"
-           stroke-width="0.20165"
-           id="tspan13-3">27</tspan></text>
-      <text
+         id="tspan13">27</tspan></text>
+    <text
+       x="4.0724711"
+       y="5.9806509"
+       fill="#323232"
+       font-size="1.6584px"
+       stroke-width="0.04146"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text19"><tspan
          x="4.0724711"
          y="5.9806509"
          fill="#323232"
-         font-size="1.6584px"
          stroke-width="0.04146"
-         style="line-height:1.25"
-         xml:space="preserve"
-         id="text19-6"><tspan
-           x="4.0724711"
-           y="5.9806509"
-           fill="#323232"
-           stroke-width="0.04146"
-           id="tspan17-1">Wednesday</tspan></text>
-    </g>
-    <g
-       id="g876"
-       stroke-width="0.26458"
-       fill="#5e4aa6"
-       transform="translate(-41.301192,0.89721978)">
-      <circle
-         id="circle868"
-         r="0"
-         cy="-328.38"
-         cx="-330.35001" />
-      <circle
-         id="circle870"
-         r="0"
-         cy="-326.25"
-         cx="-312.10999" />
-      <circle
-         id="circle872"
-         r="0"
-         cy="-333.07001"
-         cx="-306.01999" />
-      <circle
-         id="circle874"
-         r="0"
-         cy="-326.01001"
-         cx="-308.84" />
-    </g>
+         id="tspan17">Wednesday</tspan></text>
+  </g>
+  <g
+     id="g876"
+     stroke-width="0.26458"
+     fill="#5e4aa6"
+     transform="translate(-41.301192,0.89721978)">
     <circle
-       id="circle41"
-       fill="#5e4aa6"
+       id="circle868"
        r="0"
-       cy="-335.67612"
-       cx="-369.17767"
-       style="stroke-width:0.264578" />
+       cy="-328.38"
+       cx="-330.35001" />
     <circle
-       id="circle43"
-       fill-rule="evenodd"
-       fill="#5e4aa6"
+       id="circle870"
        r="0"
-       cy="-0.8644225"
-       cx="-78.260826"
-       style="stroke-width:0.264578" />
+       cy="-326.25"
+       cx="-312.10999" />
     <circle
-       id="circle926"
-       fill="#5e4aa6"
+       id="circle872"
        r="0"
-       cy="-339.12158"
-       cx="-373.03986"
-       style="stroke-width:0.264578" />
+       cy="-333.07001"
+       cx="-306.01999" />
     <circle
-       id="circle928"
-       fill-rule="evenodd"
-       fill="#5e4aa6"
+       id="circle874"
        r="0"
-       cy="-4.3098807"
-       cx="-82.123001"
-       style="stroke-width:0.264578" />
-    <g
-       id="g952"
-       stroke-width="0.26458"
-       fill="#5e4aa6"
-       transform="translate(-69.891554,-20.865856)">
-      <circle
-         id="circle944"
-         r="0"
-         cy="-328.38"
-         cx="-330.35001" />
-      <circle
-         id="circle946"
-         r="0"
-         cy="-326.25"
-         cx="-312.10999" />
-      <circle
-         id="circle948"
-         r="0"
-         cy="-333.07001"
-         cx="-306.01999" />
-      <circle
-         id="circle950"
-         r="0"
-         cy="-326.01001"
-         cx="-308.84" />
-    </g>
+       cy="-326.01001"
+       cx="-308.84" />
+  </g>
+  <circle
+     id="circle41"
+     fill="#5e4aa6"
+     r="0"
+     cy="-335.67612"
+     cx="-369.17767"
+     style="stroke-width:0.264578" />
+  <circle
+     id="circle43"
+     fill-rule="evenodd"
+     fill="#5e4aa6"
+     r="0"
+     cy="-0.8644225"
+     cx="-78.260826"
+     style="stroke-width:0.264578" />
+  <circle
+     id="circle926"
+     fill="#5e4aa6"
+     r="0"
+     cy="-339.12158"
+     cx="-373.03986"
+     style="stroke-width:0.264578" />
+  <circle
+     id="circle928"
+     fill-rule="evenodd"
+     fill="#5e4aa6"
+     r="0"
+     cy="-4.3098807"
+     cx="-82.123001"
+     style="stroke-width:0.264578" />
+  <g
+     id="g952"
+     stroke-width="0.26458"
+     fill="#5e4aa6"
+     transform="translate(-69.891554,-20.865856)">
+    <circle
+       id="circle944"
+       r="0"
+       cy="-328.38"
+       cx="-330.35001" />
+    <circle
+       id="circle946"
+       r="0"
+       cy="-326.25"
+       cx="-312.10999" />
+    <circle
+       id="circle948"
+       r="0"
+       cy="-333.07001"
+       cx="-306.01999" />
+    <circle
+       id="circle950"
+       r="0"
+       cy="-326.01001"
+       cx="-308.84" />
   </g>
 </svg>
