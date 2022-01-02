@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter893" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+  <linearGradient id="linearGradient937" x1="31.967" x2="31.967" y1="61.641" y2="3.9804" gradientTransform="translate(-3.1426e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="32" cy="32" r="30" filter="url(#filter893)" opacity=".3" stroke-linecap="round" stroke-width="2.3495"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient937)" stroke-linecap="round" stroke-width="2.3495"/>
+ <g transform="matrix(1.1667 0 0 1.1667 -87.159 -28.348)">
+  <circle cx="102.14" cy="51.727" r="15" fill="#a663e5" style="paint-order:normal"/>
+  <path d="m96.22 39.039a14 14 0 0 0-8.084 12.688h6a8 8 0 0 1 4.623-7.2422zm13.916 12.688a8 8 0 0 1-4.623 7.2441l2.5391 5.4453a14 14 0 0 0 8.084-12.689z" fill="#e5baf4" style="paint-order:normal"/>
+  <circle cx="102.14" cy="51.727" r="5" fill="#313131" style="paint-order:normal"/>
+  <circle cx="102.14" cy="51.727" r="1" fill="#f9f9f9" style="paint-order:normal"/>
+ </g>
+</svg>
