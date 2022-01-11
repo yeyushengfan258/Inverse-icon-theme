@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter11290" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="linearGradient1005" x1=".73911" x2="16.388" y1="16.296" y2=".64687" gradientTransform="matrix(3.7796 0 0 3.7796 66.09 9.4856)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-66.221 -9.4602)">
+  <circle transform="matrix(3.7796 0 0 3.7796 66.221 9.4602)" cx="8.4665" cy="8.4665" r="7.9377" filter="url(#filter11290)" opacity=".25" stroke-width=".14032"/>
+  <path d="m128.22 41.46c0 3.5964-0.63305 7.0448-1.794 10.24-0.80698 2.2212-1.8686 4.3212-3.1519 6.2636-0.53754 0.8167-1.1155 1.6054-1.729 2.3633-1.9641 2.4257-4.2982 4.5382-6.9186 6.2526-0.96493 0.63187-1.9678 1.2099-3.0061 1.7277-4.0321 2.0179-8.5839 3.153-13.401 3.153s-9.3689-1.1351-13.401-3.1531c-1.0384-0.51799-2.0425-1.096-3.0074-1.7277-2.6535-1.7376-5.0155-3.8832-6.9957-6.349-0.61468-0.76408-1.1915-1.56-1.729-2.3841-1.249-1.9102-2.2837-3.9712-3.0747-6.1494-1.1608-3.1949-1.7927-6.6419-1.7927-10.237 0-16.569 13.432-30.001 30.001-30.001 8.317 0 15.843 3.3846 21.277 8.8507 1.5661 1.5747 2.9584 3.3234 4.1436 5.214 1.1205 1.7805 2.0572 3.6882 2.7857 5.6951 1.161 3.196 1.7941 6.6442 1.7941 10.24z" fill="url(#linearGradient1005)" stroke-width=".11719"/>
+ </g>
+ <g stroke-linejoin="round" stroke-width="1.0022">
+  <rect x="45" y="15" width="10" height="6" ry="2" fill="#16be71"/>
+  <rect x="21" y="24" width="10" height="6" ry="2" fill="#fabc45"/>
+  <rect x="45" y="24" width="10" height="6" ry="2" fill="#05ac9c"/>
+  <rect x="45" y="33" width="10" height="6" ry="2" fill="#026ed2"/>
+  <rect x="33" y="33" width="10" height="6" ry="2" fill="#9e2bbb"/>
+  <rect x="21" y="33" width="10" height="6" ry="2" fill="#f57524"/>
+  <rect x="9" y="42" width="10" height="6" ry="2" fill="#f6a500"/>
+  <rect x="21" y="42" width="10" height="6" ry="2" fill="#e74b32"/>
+  <rect x="33" y="42" width="10" height="6" ry="2" fill="#b72b68"/>
+  <rect x="45" y="42" width="10" height="6" ry="2" fill="#3446d9"/>
+ </g>
+</svg>
