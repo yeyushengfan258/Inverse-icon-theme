@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter11290" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="linearGradient1005" x1=".8714" x2="16.246" y1="16.164" y2=".78937" gradientTransform="translate(17.377 7.7583)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffc841" offset="0"/>
+   <stop stop-color="#ffc841" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-17.413 -7.7518)">
+  <circle cx="25.879" cy="16.218" r="7.9377" filter="url(#filter11290)" opacity=".25" stroke-width=".14032"/>
+  <path d="m33.816 16.218c0 0.95154-0.16749 1.8639-0.47464 2.7094-0.21351 0.58768-0.49439 1.1433-0.83393 1.6572-0.14222 0.21608-0.29514 0.42475-0.45746 0.62529-0.51966 0.64179-1.1372 1.2007-1.8305 1.6543-0.2553 0.16718-0.52065 0.3201-0.79536 0.45712-1.0668 0.53389-2.2711 0.83421-3.5456 0.83421s-2.4788-0.30032-3.5456-0.83424c-0.27474-0.13705-0.5404-0.28997-0.7957-0.45712-0.70207-0.45973-1.327-1.0274-1.8509-1.6798-0.16263-0.20216-0.31524-0.41275-0.45746-0.63078-0.33046-0.5054-0.60421-1.0507-0.8135-1.627-0.30711-0.84529-0.4743-1.7573-0.4743-2.7085 0-4.3838 3.5537-7.9375 7.9375-7.9375 2.2005 0 4.1917 0.89548 5.6295 2.3417 0.41436 0.41662 0.78274 0.87929 1.0963 1.3795 0.29645 0.47107 0.54428 0.97582 0.73704 1.5068 0.30718 0.84559 0.47467 1.7579 0.47467 2.7094z" fill="url(#linearGradient1005)" stroke-width=".031006"/>
+ </g>
+ <g transform="matrix(.45977 0 0 .45977 1.3872 .2862)" stroke="#fbfbfb" stroke-width=".81396">
+  <g fill-opacity="0" stroke-linejoin="round">
+   <rect x="6.8882" y="22.253" width="6.5117" height="3.2559"/>
+   <rect x="17.47" y="22.253" width="6.5117" height="3.2559"/>
+   <circle cx="15.435" cy="11.264" r="2.8489"/>
+   <rect x="11.772" y="16.555" width="7.3257" height="3.2559"/>
+  </g>
+  <g fill="none">
+   <path d="m12.993 19.811-1.6279 2.4419"/>
+   <path d="m17.877 19.811 1.6279 2.4419"/>
+   <path d="m21.947 22.253s-0.0048-4.6461-1.2209-6.9187c-0.6924-1.2938-2.4419-3.2559-2.4419-3.2559"/>
+   <path d="m8.9231 22.253s0.28942-4.7701 1.2209-6.9187c0.53962-1.2447 2.4419-3.2559 2.4419-3.2559"/>
+  </g>
+ </g>
+</svg>
