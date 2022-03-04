@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1274" x1="37.594" x2="24.588" y1="22.56" y2="46.263" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f00" offset="0"/>
+   <stop stop-color="#ff7864" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1672" x1="40.224" x2="35.203" y1="17.995" y2="26.733" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#389700" offset="0"/>
+   <stop stop-color="#34d710" offset="1"/>
+  </linearGradient>
+  <filter id="filter11290" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="linearGradient1005" x1=".73911" x2="16.388" y1="16.296" y2=".64687" gradientTransform="matrix(3.7796 0 0 3.7796 -.13195 .024567)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dddfe1" offset="0"/>
+   <stop stop-color="#f3f4f6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="matrix(3.7796 0 0 3.7796 -.10281 .024567)" cx="8.4937" cy="8.46" r="7.9377" filter="url(#filter11290)" opacity=".25" stroke-width=".14032"/>
+ <path d="m62 32c0 3.5964-0.63305 7.0448-1.794 10.24-0.80698 2.2212-1.8686 4.3212-3.1519 6.2636-0.53754 0.8167-1.1155 1.6054-1.729 2.3633-1.9641 2.4257-4.2982 4.5382-6.9186 6.2526-0.96493 0.63187-1.9678 1.2098-3.0061 1.7277-4.0321 2.0179-8.5839 3.153-13.401 3.153-4.8171 0-9.3689-1.1351-13.401-3.1531-1.0384-0.51799-2.0425-1.096-3.0074-1.7277-2.6535-1.7376-5.0155-3.8832-6.9957-6.349-0.61468-0.76408-1.1915-1.56-1.729-2.3841-1.249-1.9102-2.2837-3.9712-3.0747-6.1494-1.1608-3.1949-1.7927-6.6419-1.7927-10.237 0-16.569 13.432-30.001 30.001-30.001 8.317 0 15.843 3.3846 21.277 8.8507 1.5661 1.5747 2.9584 3.3234 4.1436 5.214 1.1205 1.7805 2.0572 3.6882 2.7857 5.6951 1.161 3.196 1.7941 6.6442 1.7941 10.24z" fill="url(#linearGradient1005)" stroke-width=".11719"/>
+ <g stroke-width="1.2069">
+  <path d="m31.462 18.45c-3.4743-2.0059-7.4781-1.5303-10.495 3.6957-3.6207 6.2712-3.9874 21.389 2.2838 25.01 6.2712 3.6207 19.18-4.2559 22.801-10.527 3.0172-5.226 1.4272-8.9312-2.0471-10.937z" fill="url(#linearGradient1274)"/>
+  <path d="m40.75 16.845s-2.6939-0.16169-4.5042 2.9739c0.16169-2.6939-1.9714-3.9254-4.0191-5.1076-1.2069 2.0904-0.76514 3.7391 0.72182 5.9912-2.6939-0.16169-4.3425 0.28006-5.5494 2.3705 2.0478 1.1823 4.1808 2.4138 6.4329 0.92684-1.8103 3.1356-0.32339 5.3877-0.32339 5.3877s2.6939 0.16169 4.5042-2.9739c-0.16169 2.6939 1.9714 3.9254 4.0191 5.1076 1.2069-2.0904 0.76514-3.7391-0.72182-5.9912 2.6939 0.16169 4.3425-0.28006 5.5494-2.3705-2.0478-1.1823-4.1808-2.4138-6.4329-0.92684 1.8103-3.1356 0.32339-5.3877 0.32339-5.3877z" fill="url(#linearGradient1672)" style="paint-order:normal"/>
+  <g fill="#eeebcd">
+   <circle transform="rotate(30)" cx="43.713" cy="24.385" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="38.885" cy="19.558" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="48.54" cy="19.558" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="43.713" cy="17.144" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="50.954" cy="14.73" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="36.471" cy="14.73" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="34.058" cy="9.9025" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="53.368" cy="9.9025" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="40.092" cy="11.109" r="1.2069" style="paint-order:normal"/>
+   <circle transform="rotate(30)" cx="47.334" cy="11.109" r="1.2069" style="paint-order:normal"/>
+  </g>
+  <circle transform="rotate(30)" cx="43.713" cy="1.4542" r="2.4138" fill="#2c8223" style="paint-order:normal"/>
+  <circle transform="rotate(30)" cx="43.713" cy="1.4542" r="1.2069" fill="#5ccd7c" style="paint-order:normal"/>
+ </g>
+</svg>
